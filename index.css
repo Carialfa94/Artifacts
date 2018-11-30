@@ -35,7 +35,7 @@ h1{font-family: 'LobsterRegular';
 				text-align: center;
                 font-weight: bold; 
                 font-style: normal;
-                font-size: 800%;
+                font-size: 700%;
    margin: 0px;
   padding: 0px;
 
@@ -54,7 +54,7 @@ font-family: 'LobsterRegular';
 
   p{
 	      font-family:  'DancingScriptRegular';
-                  color:#8B4513;
+                  color:white;
     padding: 70px;			
 	  text-align: left;
       font-style: strong;
